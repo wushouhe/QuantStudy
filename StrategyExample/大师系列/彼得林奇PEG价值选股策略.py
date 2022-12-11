@@ -133,7 +133,8 @@ def fun_remove_new(_stock_list, days):
 #### 4.剔除周期性行业 ###########################################
 def fun_remove_periodic_industry(stock_list, last_date):
 
-    periodic_industry = [  # 'T0101', # 种植业与林业
+    periodic_industry = [
+        # 'T0101', # 种植业与林业
         # 'T0102', # 养殖业
         # 'T0103', # 农产品加工
         # 'T0104', # 农业服务
