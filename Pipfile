@@ -9,6 +9,7 @@ numpy = "*"
 matplotlib = "*"
 openpyxl = "*"
 scipy = "*"
+numpy-financial = "*"
 
 [dev-packages]
 black = "*"

@@ -268,7 +268,7 @@
                 "sha256:ea9ca0989fdd42d3320a94f540f317fb615be9ceab75a07078a84b9933582da5"
             ],
             "index": "pypi",
-            "version": "==1.24.0rc2"
+            "version": "==1.24.0rc1"
         },
         "openpyxl": {
             "hashes": [
